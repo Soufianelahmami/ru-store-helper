@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"n today's fast-paced world, technology continues to transform various aspects of our lives, including the way we shop","photo2":"https://iili.io/Hg6mmfj.jpg"},
+  {"desc3":"The emergence of virtual assistants has revolutionized the retail industry, providing consumers with convenient and personalized shopping experiences","photo3":"https://iili.io/Hg6mtWu.webp"},
+  {"desc4":". One such innovative virtual assistant is the Ru Store Helper. Developed by a leading tech company","photo4":"https://iili.io/Hg6mDib.jpg"},
+  {"desc5":"Ru Store Helper is an intelligent and user-friendly tool designed to enhance the shopping journey for customers. In this article,","photo5":"https://iili.io/Hg6mp0x.jpg"},
+  {"descd":"we will delve into the features, benefits, and impact of the Ru Store Helper, highlighting its contribution to the retail landscape.","photod":"https://iili.io/Hg6myUQ.jpg"}
    ]
  
 }
